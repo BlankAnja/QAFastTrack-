@@ -16,3 +16,5 @@ Co to są test case?
 Jeden konkretny przypadek, który ma w sobie kroki i oczekiwany rezultat.
 
 Jak się mają zadania do brunchów?
+
+Hello GIT!
