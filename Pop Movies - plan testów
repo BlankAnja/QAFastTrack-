@@ -1,0 +1,11 @@
+0) Włączam Internet
+1) Włączam aplikację
+2) Sprawdzam czy wyświetla się siatka z plakatami filmów
+3) Ustawiam sortowanie według najbardziej popularnych, sprawdzam czy działa
+4) Ustawiam sortowanie według najlepej ocenianych, sprawdzam czy działa
+5) Wchodzę w jeden z filmów i sprawdzam czy wyświetlają się szczegóły filmu:
+- oryginalny tytuł
+- miniatura plakatu
+- streszczenie filmu
+- ocena użytkowników
+- data ukazania się filmu
